@@ -57,7 +57,7 @@ const Navbar = () => {
     return (
         <Wrapper>
             <StyledLink to={"/"}>
-                <Logo>ECOMM</Logo>
+                <Logo>STYLE POINT</Logo>
             </StyledLink>
             <Right>
                 <SearchContainer>
