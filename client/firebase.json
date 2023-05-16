@@ -1,6 +1,6 @@
 {
     "hosting": {
-        "site": "ecommerce-website-project-1",
+        "site": "style-point-810de",
         "public": "build",
         "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
         "rewrites": [
